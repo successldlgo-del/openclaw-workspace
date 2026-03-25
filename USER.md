@@ -21,6 +21,10 @@
 - 截图等无用文件不入库
 - 简洁直接，不废话
 
+## 项目：hanson-erp（Hanson公司采购系统，准备中）
+- **路径：** D:\workCode\hanson-erp
+- **状态：** 准备开发阶段
+
 ## 项目：pms（采购管理系统）
 - **路径：** D:\workCode\pms
 - **后端：** Java 11 + Spring Boot 2.3.12 + Spring Cloud（Nacos/Sentinel/Feign）
