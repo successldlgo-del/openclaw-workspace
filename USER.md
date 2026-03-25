@@ -21,6 +21,12 @@
 - 截图等无用文件不入库
 - 简洁直接，不废话
 
-## 项目
-- 跨境电商采购系统（自研）
-- 具体技术栈待补充
+## 项目：pms（采购管理系统）
+- **路径：** D:\workCode\pms
+- **后端：** Java 11 + Spring Boot 2.3.12 + Spring Cloud（Nacos/Sentinel/Feign）
+- **数据库：** MySQL（主库）+ ClickHouse（日志）+ Redis（缓存）+ Elasticsearch（搜索）
+- **消息队列：** RabbitMQ
+- **定时任务：** XXL-Job（192个调度器）
+- **外部集成：** 1688 API、企业微信、kye/zop 平台 SDK
+- **规模：** 142个控制器、468个 MyBatis Mapper、430+张表
+- **构建：** Maven + MyBatis Generator
