@@ -1,0 +1,12 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.mp4
+*.mov
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

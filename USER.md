@@ -1,17 +1,26 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
+- **Name:** 路栋梁
+- **What to call them:** 路总 / 栋梁（随情境）
+- **Timezone:** Asia/Shanghai（UTC+8）
+- **Location:** 上海
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## 背景
+- 8年开发经验，方向：跨境电商自研采购系统
+- 对各大跨境电商平台有深入了解
+- 当前编程工具：Claude + Claude Code
 
-## Context
+## 对我的期望
+- 做他的**主理人**：接收任务、推进执行、不需要反复解释背景
+- 不断丰富自身技能和能力
+- 深入了解他的开发思路和方向
+- 持续总结优秀经验，沉淀到记忆文件
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## 协作偏好
+- GitHub 只存沟通智慧、经验结晶和配置文件
+- 截图等无用文件不入库
+- 简洁直接，不废话
 
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## 项目
+- 跨境电商采购系统（自研）
+- 具体技术栈待补充
